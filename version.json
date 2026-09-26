@@ -1,0 +1,14 @@
+{
+  "version": "2.0.0",
+  "app_name": "The Ultimate Dubber",
+  "app_code": "T-002",
+  "release_date": "2026-03-27",
+  "github_repo": "Sovannykhem/theultimatedubber",
+  "changelog": [
+    "Microsoft Edge WebView2 Native Window with Two-Stage Lifecycle",
+    "Cloud License Verification & HWID Hardware Binding",
+    "PyArmor Source Code Protection Pipeline",
+    "Full-featured Seed-VC Voice Conversion Engine",
+    "Performance improvements & crash resilience"
+  ]
+}
