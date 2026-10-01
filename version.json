@@ -1,14 +1,14 @@
 {
-  "version": "2.0.0",
+  "version": "1.0.2",
   "app_name": "The Ultimate Dubber",
   "app_code": "T-002",
-  "release_date": "2026-03-27",
+  "release_date": "2026-10-01",
+  "download_url": "",
   "github_repo": "Sovannykhem/theultimatedubber",
   "changelog": [
-    "Microsoft Edge WebView2 Native Window with Two-Stage Lifecycle",
-    "Cloud License Verification & HWID Hardware Binding",
-    "PyArmor Source Code Protection Pipeline",
-    "Full-featured Seed-VC Voice Conversion Engine",
-    "Performance improvements & crash resilience"
+    "CapCut-grade Subtitle Styles with Dynamic Outline Color & Real-Time Sync",
+    "Multi-Directional Text Shadow & High-Contrast Stroke Protection",
+    "Smart Khmer Syllable & Coda Consonant Word-Wrapping (Intl.Segmenter)",
+    "Pure Frosted Glass Blur Background with Zero Black Tint Overlay",
   ]
 }
