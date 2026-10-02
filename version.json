@@ -1,11 +1,12 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "app_name": "The Ultimate Dubber",
   "app_code": "T-002",
   "release_date": "2026-10-02",
   "download_url": "",
   "github_repo": "Sovannykhem/theultimatedubber",
   "changelog": [
+    "High-speed silent In-App Auto-Updater engine (/VERYSILENT /NORESTART /CLOSEAPPLICATIONS)",
     "Fixed Khmer custom font export parity (Moul, Koulen, Siemreap, Fasthand across all PCs)",
     "Bundled and auto-seeded built-in background music tracks (7 classic cinematic tracks)",
     "Enhanced FFmpeg drawtext font discovery across internal and standalone directories",
