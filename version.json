@@ -1,14 +1,15 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "app_name": "The Ultimate Dubber",
   "app_code": "T-002",
-  "release_date": "2026-10-01",
+  "release_date": "2026-10-02",
   "download_url": "",
   "github_repo": "Sovannykhem/theultimatedubber",
   "changelog": [
+    "Fixed Khmer custom font export parity (Moul, Koulen, Siemreap, Fasthand across all PCs)",
+    "Bundled and auto-seeded built-in background music tracks (7 classic cinematic tracks)",
+    "Enhanced FFmpeg drawtext font discovery across internal and standalone directories",
     "CapCut-grade Subtitle Styles with Dynamic Outline Color & Real-Time Sync",
-    "Multi-Directional Text Shadow & High-Contrast Stroke Protection",
-    "Smart Khmer Syllable & Coda Consonant Word-Wrapping (Intl.Segmenter)",
-    "Pure Frosted Glass Blur Background with Zero Black Tint Overlay",
+    "Smart Khmer Syllable & Coda Consonant Word-Wrapping (Intl.Segmenter)"
   ]
 }
