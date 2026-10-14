@@ -1,16 +1,19 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "app_name": "The Ultimate Dubber",
   "app_code": "T-002",
-  "release_date": "2026-10-02",
+  "release_date": "2026-10-14",
   "download_url": "",
   "github_repo": "Sovannykhem/theultimatedubber",
   "changelog": [
+    "Subtitles default to OFF upon launch (user-controlled toggle)",
+    "Preserved Visual Feature adjustments (Blur fit to timeline, Text, Logo, Sponsor) across Transcribe & Generate Voice",
+    "Added Storage & Cache Cleaner in Settings to easily free disk space and avoid project confusion",
+    "Disabled auto-restoring stale projects to guarantee clean session startups",
+    "Removed One-Click Auto-Dub header button for a cleaner studio layout",
     "High-speed silent In-App Auto-Updater engine (/VERYSILENT /NORESTART /CLOSEAPPLICATIONS)",
     "Fixed Khmer custom font export parity (Moul, Koulen, Siemreap, Fasthand across all PCs)",
     "Bundled and auto-seeded built-in background music tracks (7 classic cinematic tracks)",
-    "Enhanced FFmpeg drawtext font discovery across internal and standalone directories",
-    "CapCut-grade Subtitle Styles with Dynamic Outline Color & Real-Time Sync",
-    "Smart Khmer Syllable & Coda Consonant Word-Wrapping (Intl.Segmenter)"
+    "CapCut-grade Subtitle Styles with Dynamic Outline Color & Real-Time Sync"
   ]
 }
